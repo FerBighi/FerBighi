@@ -1,4 +1,6 @@
-# Olá, me chamo Maria fernanda! 
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/5bc2b9b4-cba3-4bd8-a4b2-9ac86a86b7f8" />
+
+
 ## Bem vindo ao meu perfil GitHub 👋
 <br>
 
