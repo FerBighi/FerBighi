@@ -3,13 +3,11 @@
 Sou aluna do SENAI, estou no DEV 1!
 
 <br>
-<br>
 
 <p align="left">
 <img src='https://i.pinimg.com/originals/4f/65/dc/4f65dc9cb55f160eecc667d502ed79e2.jpg' width="500" height="550"/>
 </p>
 
-<br>
 <br>
 
 
