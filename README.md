@@ -1,5 +1,6 @@
 # Olá, me chamo Maria fernanda ! 
 ## Bem vindo ao meu perfil GitHub 👋
+Sou aluna do SENAI, estou no DEV 1!
 
 <br>
 <br>
@@ -10,6 +11,7 @@
 
 <br>
 <br>
+
 
 ## Estou aprendendo 📖
 <p align="left">
