@@ -1,8 +1,5 @@
 # Olá, me chamo Maria fernanda ! 
 ## Bem vindo ao meu perfil GitHub 👋
-- 🔭 Atualmente estou testando o README, para criar um bom perfil.
-- 🌱 Atualmente estou aprendendo a fazer o meu perfil!
-- ⚡ Curiosidade: Sou aluna do SENAI, estou no DEV 1!
 
 <br>
 <br>
@@ -13,8 +10,6 @@
 
 <br>
 <br>
-
-Este repositório foi feito como um teste para aprender a criar e personalizar arquivos README no GitHub. Aqui serão experimentados exemplos de formatação em Markdown, organização de tópicos e boas práticas de documentação para projetos futuros.
 
 ## Estou aprendendo 📖
 <p align="left">
